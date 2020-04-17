@@ -1,5 +1,7 @@
+// 
+
 import java.util.*;
-class test {
+class merge_space {
     public static void main(String[] args){
        //Test Case 1
     //    int[][] testCase1 = new int[4][2];
